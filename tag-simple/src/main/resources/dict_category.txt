@@ -1,0 +1,4 @@
+%serach*|土豆视频1|api.3g.tudou.com/pianku/videos?tags=120|标签1
+%ire%|土豆视频2|api.3g.tudou.com/pianku/videos?tags=120|标签2
+%ie?|土豆视频3|api.3g.tudou.com/pianku/videos?tags=121|标签3
+|土豆视频3|api.3g.tudou.com/pianku/videos?tags=121|标签3

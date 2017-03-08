@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<property>
+		<name>ire.whitelist.path</name>
+		<value>/user/hdfs/</value>
+	</property>
+	<property>
+		<name>ire.whitelist.path.local</name>
+		<value></value>
+	</property>
+	
+		<property>
+		<name>ire.tag.path</name>
+		<value>/user/hdfs/</value>
+	</property>
+	<property>
+		<name>ire.tag.path.local</name>
+		<value>F:\\iResWorkSpace\\tag-simple\\src\\main\\resources\\</value>
+	</property>
+</configuration>
